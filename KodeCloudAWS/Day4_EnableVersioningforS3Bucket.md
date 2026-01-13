@@ -161,10 +161,3 @@ https://console.aws.amazon.com/console/home?region=us-east-1
 5. Click **Save changes**.
 
 ---
-
-### Step 5: Verify
-
-1. You should see a success banner: `Successfully updated bucket versioning`.
-2. In the **Properties** tab, under **Bucket Versioning**, it should now say **Bucket Versioning: Enabled**.
-
----
